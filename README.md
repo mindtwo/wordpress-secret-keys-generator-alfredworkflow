@@ -1,4 +1,7 @@
 # WordPress Secret Keys Generator - Alfred 3 Workflow
+
+![Alfred Logo](https://github.com/mindtwo/wordpress-secret-keys-generator-alfredworkflow/raw/master/docs/images/logo.png)
+
 Alfred 3 Workflow to create and copy fresh WordPress secret keys to the clipboard.
 
 Download and install `wordpress-secret-keys-generator.alfredworkflow`.
